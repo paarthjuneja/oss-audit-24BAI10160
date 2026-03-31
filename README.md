@@ -1,4 +1,4 @@
-# Linux Kernel Administration Project
+# OSS Audit - Capstone Project for OSS NGMC Course
 
 **Student Name:** Paarth Juneja
 
